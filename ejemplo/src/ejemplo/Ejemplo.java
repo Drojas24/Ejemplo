@@ -1,6 +1,8 @@
 
 package ejemplo;
 
+import javax.swing.JOptionPane;
+
 
 public class Ejemplo {
 
@@ -19,6 +21,8 @@ public class Ejemplo {
          System.out.println("Hola soy cesar");//cambio de prueba 7am
          
          System.out.println("Daniel ");//Cambio 7 y 5 am
+         
+         JOptionPane.showMessageDialog(null, "Cesar/Prueba");//cambio 10:06am
          
     }
     
