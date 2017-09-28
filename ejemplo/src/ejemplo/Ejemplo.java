@@ -24,6 +24,8 @@ public class Ejemplo {
          
          JOptionPane.showMessageDialog(null, "Cesar/Prueba");//cambio 10:06am
          
+         System.out.println("Diego Nuñez, prueba"); //hora 11:15am
+         
     }
     
        
